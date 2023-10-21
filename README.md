@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Azouzi Mohamed Ali</h1>
 <h3 align="center">A Passionate Software Engineering Developer From Tunisia</h3><br/>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"><br/>
+- ⚡ Fun fact  -  **I think I am funny 😅 ** 
+- 📝 I regularly write articles .
+- 🌱 I’m currently learning .
+- 🔭 I’m currently working .
+- 👯 I’m looking to collaborate
+- 👨‍💻 All of my projects are available .
+- 📫 How to reach me **meedaly01@gmail.com** .
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/azouzi-mohamed-ali-065aa9225?originalsubdomain=tn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azouzi-mohamed-ali-065aa9225?originalsubdomain=tn" height="30" width="40" /></a>
