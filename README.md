@@ -31,3 +31,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azouzi-mohamed-ali&show_icons=true&locale=en&layout=compact" alt="azouzi-mohamed-ali" />
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azouzi-mohamed-ali&show_icons=true&locale=en" alt="azouzi-mohamed-ali" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=azouzi-mohamed-ali&" alt="azouzi-mohamed-ali" /></p>
