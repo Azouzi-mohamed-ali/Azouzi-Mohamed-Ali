@@ -14,7 +14,7 @@
   
 - 👨‍💻 All of my projects are available . <br/>
 
-- 📫 How to reach me **meedaly01@gmail.com**
+- 📫 How to reach me **mohamedaliazouzi11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
